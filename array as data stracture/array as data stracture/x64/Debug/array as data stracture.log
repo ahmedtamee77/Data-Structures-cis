@@ -1,0 +1,3 @@
+﻿  array as data stracture.cpp
+C:\Users\Ahmedtamee\source\repos\array as data stracture\array as data stracture\array as data stracture.cpp(55): warning C4715: 'Array::getitem': not all control paths return a value
+  array as data stracture.vcxproj -> C:\Users\Ahmedtamee\source\repos\array as data stracture\x64\Debug\array as data stracture.exe
